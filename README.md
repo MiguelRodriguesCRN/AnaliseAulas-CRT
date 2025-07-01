@@ -199,13 +199,6 @@ analise-crt/
     app.use(cors());
     ```
 
-## Contribuição
-
-1. Faça um fork do repositório.
-2. Crie uma branch para sua funcionalidade (`git checkout -b feature/nova-funcionalidade`).
-3. Commit suas mudanças (`git commit -m 'Adiciona nova funcionalidade'`).
-4. Push para a branch (`git push origin feature/nova-funcionalidade`).
-5. Abra um Pull Request.
 
 ## Licença
 
